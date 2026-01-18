@@ -1,9 +1,9 @@
-# Hi 👋! My name is Kirill and i'm a Fullstack Web Developer
+# Привет 👋! Я Кирилл, Fullstack веб-разработчик
 
-**Languages and Tools I use:** Typescript, Next.js, React, Node.js, Tailwind, Drizzle, Neon postgreSQL, Zod, BetterAuth, Shadcn, Resend and framer-motion with gsap for animations. 
+**Языки, фреймфорки и инструменты которые я использую :** Typescript, Next.js, React, Node.js, Tailwind, Drizzle, Neon postgreSQL, Zod, BetterAuth, Shadcn, Resend and framer-motion with gsap for animations. 
 
-I will be happy to work with you
-### 🧰 Languages and Tools
+Готов обсудить любиые условия
+### 🧰 Stack
 
 <img align="left" alt="Nextjs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
 <img align="left" alt="Typescript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
